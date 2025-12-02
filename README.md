@@ -73,6 +73,9 @@ docker ps
 docker-compose down
 
 
+create maven web app and upload it to github
+create multi container of mysql and wordpress through docker
+
 
 
 
